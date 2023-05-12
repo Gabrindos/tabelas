@@ -8,3 +8,7 @@ table{
     border-collapse: collapse;
     padding: 10rem;
 }
+
+section{
+    height: 100vh;
+    }
